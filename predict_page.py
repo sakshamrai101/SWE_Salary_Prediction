@@ -21,19 +21,22 @@ def show_predict_page():
 
     countries = (
         "United States of America",
-        "India",
-        "United Kingdom",
         "Germany",
+        "United Kingdom of Great Britain and Northern Ireland",
         "Canada",
-        "Brazil",
+        "India",
         "France",
-        "Spain",
-        "Australia",
         "Netherlands",
-        "Poland",
-        "Italy",
-        "Russian Federation",
+        "Australia",
+        "Brazil",
+        "Spain",
         "Sweden",
+        "Italy",
+        "Poland",
+        "Switzerland",
+        "Denmark",
+        "Norway",
+        "Israel",
     )
 
     education = (
